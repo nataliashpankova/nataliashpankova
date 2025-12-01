@@ -1,9 +1,9 @@
-## Ciao. Sono Natalia
-## Hi. I'm Natalia
-## Привет. Меня зовут Наталья
+# Ciao. Sono Natalia
+# Hi. I'm Natalia
+# Привет. Меня зовут Наталья
 
 Appossionata di informatica<br/>
-Autodidatta in Java, Python, SQL on [Stepik](https://stepik.org/users/592106797/profile)
+Autodidatta in Java, Python, SQL on [Stepik](https://stepik.org/users/592106797/profile), W3Shcools, FreeCodeCamp.
 
 
 # 💻 Tech Stack:
