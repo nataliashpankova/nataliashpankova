@@ -16,4 +16,4 @@ Autodidatta in Java, Python, SQL on [Stepik](https://stepik.org/users/592106797/
 ---
 [![](https://visitcount.itsvg.in/api?id=nataliashpankova&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
